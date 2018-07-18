@@ -1,0 +1,157 @@
+PERSONAL DETAILS
+
+Family name (as in passport):
+MARCELO CARVALHO MACEDO
+
+Given name 1 (as in passport):
+MARCELO
+
+Gender (option):
+Male
+
+Date of birth (option):
+04/02/1999
+02/04/1999
+
+
+ADDRESS-------------------------
+
+Street Name
+PROFESSOR RUBIÃO MEIRA
+
+Suburb
+PLANALTO
+
+City
+SÃO BERNARDO DO CAMPO
+
+Email address:
+marcelo.macedo330@hotmail.com
+
+
+Are you represented by an immigration adviser? (option)
+No
+
+Communication method (option)
+Email
+
+
+IDENTIFICATION-------------------------
+Passport Number
+FJ372533
+
+Please re-enter passport number
+FJ372533
+
+Citizenship of Passport
+Brazil
+
+Passport expire date (option)
+09/01/2019
+
+SECOND FORM OF IDENTIFICATION (topic)-------------------------
+
+Identification Type (option)
+Birth Certificate
+
+Date Document was issued (option)
+04/02/1999
+02/04/1999
+
+OCCUPATION DETAILS (topic)------------------------- (NÃO PREENCHER NADA)
+
+INDUSTRY (topic)------------------------- (NÃO PREENCHER NADA)
+
+OCCUPATION (topic)------------------------- (NÃO PREENCHER NADA)
+
+
+
+HEALTH (topic)---------------------------------------------------------------------------
+
+
+Do you have a medical condition that requires, or may require, renal dialysis during your intended
+stay in New Zealand? (option)
+No
+
+Do you have tuberculosis (TB)? (option)
+No
+
+Do you have any of the following condition(s):
+
+Cancer (option)
+No
+
+Heart disease (option)
+No
+
+A mental, physical or intellectual disability (option)
+No
+
+Do you have any medical condition(s) that currently requires, or may require, during your intended stay in
+New Zealand:
+
+Hospitalization (option)
+No
+
+Residential care (option)
+No
+
+In the five years priors to this application, have you spend (lived in and/or visited) a 
+combined total of 3 months in any country or countries NOT considered to be a low risk
+for TB? (option)
+Yes
+
+
+*CLICAR EM SAVE APÓS HEALTH*
+
+CHARACTER--------------------------------------------(NÃO PREENCHER NADA)
+have you ever been convicted of any offence for which you have been sentenced to a term
+of imprisonment of 5 years or more, or for an indeterminate period of running 5 years or
+more? (option)
+No
+
+Have you, in the 10 years preceding this application, ever been convicted of any offence for
+which you have been sentenced to imprisonment for a term of 12 months or more, or for an
+inteterminate period capable of running for 12 months or more? (option)
+No
+
+Do you have a New Zealand removal order in force against you? (option)
+No
+
+Have you ever been deported from New Zealand or any ohter country? (option)
+No
+
+Have you been charged? (option)
+No
+
+Have you been convicted? (option)
+No
+
+For any offence(s) agains the lay in any country or:
+
+Excluded from refused entry to (option)
+No
+
+Removed from or asked to leave (option)
+No
+-----------------------------------------------------------------------------------------------------------------------------
+
+WORKING HOLIDAY SPECIFIC----------------------------------------------------------------------------------------------------
+
+Have you previously been issued a New Zealand Working Holiday Visa? (option)
+No
+
+Do you have sufficient founds available for your Workin Holiday Visa in New Zealand?
+Check the amount of founds you will need here. (option)
+Yes
+
+Please enter the date you intend to travel to New Zealand (option)
+10/09/2018 (setembro)
+09/10/2018 (setembro)
+
+Do you have sufficient founds to purchase an outward ticket when you are due to leave 
+New Zealand? (option)
+Yes
+
+Do you meet the specific requirements for the scheme you are applying for? (option)
+Yes
